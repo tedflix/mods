@@ -1,0 +1,16 @@
+{
+    "schemaVersion": 1,
+    "id": "terralith_andesite_patch",
+    "version": "2.4.11",
+    "name": "Terralith Andesite Patch",
+    "description": "Terralith andesite patch for create",
+    "icon": "pack.png",
+    "environment": "*",
+    "entrypoints": {},
+    "mixins": [],
+    "depends": {
+        "fabricloader": ">=0.12.7",
+        "fabric-api-base": "*",
+        "minecraft": ">=1.20"
+    }
+}

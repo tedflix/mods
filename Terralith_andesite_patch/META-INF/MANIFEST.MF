@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Specification-Title: terralith_andesite_patch
+Specification-Version: 1.0.0
+Implementation-Title: terralith_andesite_patch
+Implementation-Version: 1.0.0
+
+
