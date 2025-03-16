@@ -1,0 +1,17 @@
+filename = 'theinkarena-1.3.1-forge-1.20.1.jar'
+name = 'The Ink Arena'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.3.1'
+
+[download]
+hash = 'eb79f2a9562c9ef1cff98fe7317a3e1d9d922e4412027a7238673a64271f56412596b95bc30c93aeec212d36fca85994d21c75176b824d91b07729e9a4a7c1bd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pgODeliD/versions/3pKKqa9z/theinkarena-1.3.1-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'pgODeliD'
+version = '3pKKqa9z'

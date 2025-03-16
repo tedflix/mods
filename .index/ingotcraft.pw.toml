@@ -1,0 +1,17 @@
+filename = 'ingotcraft-1.20.1-2.4.10-forge.jar'
+name = 'IngotCraft'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20.1-2.4.10-forge'
+
+[download]
+hash = 'f7fc748caaea03ad59de9698bc545949c22c1c2e3cc00edfcb3bfa3bfd3f11113ce42cfb9ac4d57fa6c625753dd76ea0ea06b32ce18995c8642c7bc9ff417462'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Kma1RCF3/versions/t7wIxRNl/ingotcraft-1.20.1-2.4.10-forge.jar'
+
+[update.modrinth]
+mod-id = 'Kma1RCF3'
+version = 't7wIxRNl'

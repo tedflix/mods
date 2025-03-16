@@ -1,0 +1,17 @@
+filename = 'Pretty Rain-1.20.1-Forge-1.1.0.jar'
+name = 'Pretty Rain'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20.1'
+
+[download]
+hash = '1902ee76c7bf3a56bbf5c42c67d70c3797c205ce9ee6ab930ec3fd4282c0db50c8b02c2043611486e5f9b79ec4694d3d7f868ef9efd65b1568c852e86e0c346e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/IhZuHxkl/versions/TGjK6ChS/Pretty Rain-1.20.1-Forge-1.1.0.jar'
+
+[update.modrinth]
+mod-id = 'IhZuHxkl'
+version = 'TGjK6ChS'

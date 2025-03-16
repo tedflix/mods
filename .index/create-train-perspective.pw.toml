@@ -1,0 +1,17 @@
+filename = 'create-train-perspective-1.0.0+mc1.20.1.jar'
+name = 'Create: Train Perspective'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0+forge-1.20.1'
+
+[download]
+hash = '9abced6243594d7309556cfd8fe9cdbca463ac3313d8d2f40ef099f72edbc04f648dbfa7cebf64c1bc31c55c73342174b1a6f79a6d7a6099d6be416a406e5161'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MAuPqvf1/versions/7GlP4xxC/create-train-perspective-1.0.0%2Bmc1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'MAuPqvf1'
+version = '7GlP4xxC'

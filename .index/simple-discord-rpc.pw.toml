@@ -1,0 +1,17 @@
+filename = 'SimpleRPC-Universal-4.0.0.jar'
+name = 'Simple RPC'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.18.2', '1.19.2', '1.19.4', '1.20', '1.20.1', '1.20.2', '1.20.4', '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '4.0.0'
+
+[download]
+hash = '2583108a303e2969cd2a8afc6c85f22e0c3de131cab40eff7f6a1d60fbfb47ddc3ccf533060638582cfb5f8d9729f23806b5b21eba38525c7421faaf0ea3af16'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ObXSoyrn/versions/rCyV8Y0f/SimpleRPC-Universal-4.0.0.jar'
+
+[update.modrinth]
+mod-id = 'ObXSoyrn'
+version = 'rCyV8Y0f'

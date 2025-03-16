@@ -1,0 +1,17 @@
+filename = 'locallooks-1.5-1.20.jar'
+name = 'Local Looks'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.5.0'
+
+[download]
+hash = 'c5706f6e7e47e747c2b9b37ace71dbd4044d1077fa842aafa1424e7669f4eab276f188db9cc185bd0e6abbe8f5248af32f607cfc705e7035fa69823d2760eab1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/QYMWGqdh/versions/pPZVmGpY/locallooks-1.5-1.20.jar'
+
+[update.modrinth]
+mod-id = 'QYMWGqdh'
+version = 'pPZVmGpY'
