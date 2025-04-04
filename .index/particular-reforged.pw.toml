@@ -1,0 +1,17 @@
+filename = 'particular-1.20.1-Forge-1.0.1.jar'
+name = 'Particular ✨ Reforged'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20.1'
+
+[download]
+hash = 'ebb3f53c1cdc0ab9903cea41a30ff68b8bec7e4a82b0dd6dee6c995d3cc599307836f40c2232522e81343873f00f48e8f7d5d5a48ae32a44fb2308ebb109d462'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pYFUU6cq/versions/8Uu0KZZR/particular-1.20.1-Forge-1.0.1.jar'
+
+[update.modrinth]
+mod-id = 'pYFUU6cq'
+version = '8Uu0KZZR'
