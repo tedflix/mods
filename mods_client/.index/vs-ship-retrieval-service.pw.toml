@@ -1,0 +1,17 @@
+filename = 'ShipRetrievalService-Forge-1.0.0.jar'
+name = 'VS: Ship Retrieval Service'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.0'
+
+[download]
+hash = 'c0f49058c8505cd54d4a9fbb27460294d250fe2eebb8728785798c18c3ad64ffd5b992f7b3f440a0eea0032480165ac57df2014728505aacf97c0e41ab304394'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/GWY9Ldvz/versions/2GjJDWeQ/ShipRetrievalService-Forge-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'GWY9Ldvz'
+version = '2GjJDWeQ'

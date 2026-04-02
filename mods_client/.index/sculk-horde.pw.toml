@@ -1,0 +1,17 @@
+filename = 'sculkhorde-1.20.1-0.11.9.jar'
+name = 'Sculk Horde'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20.1-0.11.9'
+
+[download]
+hash = '26ff247554fcd4f48101befa78e0752ba2f275a1eb80dd1e13809c7402b50a251ad1736c6fa91f391399f40737b6c9bf5f2f6c92585e650c8763b33567bfe1aa'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tBbdvEJc/versions/gCLU4MUn/sculkhorde-1.20.1-0.11.9.jar'
+
+[update.modrinth]
+mod-id = 'tBbdvEJc'
+version = 'gCLU4MUn'
