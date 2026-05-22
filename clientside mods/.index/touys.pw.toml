@@ -1,0 +1,21 @@
+filename = 'touys-neoforge-1.21.1-1.0.5.jar'
+name = 'Sable Touys'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'neoforge-1.0.5'
+
+[download]
+hash = '293768d00920f8a801551c55095a8bcf6e9807235786d2e3657022198045fdd28207b006df41be115678445b807fd24d721fb142e14401bc6311a8b3483b8683'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HHlTF7u0/versions/u9Mck29M/touys-neoforge-1.21.1-1.0.5.jar'
+
+[update.modrinth]
+mod-id = 'HHlTF7u0'
+version = 'u9Mck29M'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'T9PomCSv'
+type = 'REQUIRED'
